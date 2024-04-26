@@ -4,7 +4,7 @@ The first step in this process is to determine the most efficient language to us
 2. Python (using a lookup table, dictionary, etc)
 3. PHP (using databases and tables)
 
-I will be testing out different functionalities to see which one best suits the needs of this project. I will need to also consider which datastructure would be most appropriate to use in this case, in order to maximize efficiency with the resources I have available.
+I will be testing out different functionalities to see which one best suits the needs of this project. I will need to also consider which data structure would be most appropriate to use in this case, in order to maximize efficiency with the resources I have available.
 
 So far, we know the needs are as follows:
 - We need a user management system to store data
