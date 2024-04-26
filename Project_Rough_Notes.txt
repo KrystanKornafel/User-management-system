@@ -1,6 +1,6 @@
 The first step in this process is to determine the most efficient language to use when developing this project. Although different languages have their own benefits and drawbacks, some are much better at handling data than others. So far the top three that seem most appropriate for this task include:
 
-1. Java
+1. Java (data structures, or Netbeans)
 2. Python (using a lookup table, dictionary, etc)
 3. PHP (using databases and tables)
 
@@ -13,4 +13,7 @@ So far, we know the needs are as follows:
 - We need to consider the number of users that will be using this system, so that we can better develop the system to be able to handle the amount of data coming in.
 
 Since this is just a mock project, I will be going small-scale when developing this project. I will be considering a system where only up to 50 users will be interacting with the system, since I would not have the means to use a large database for data storage. I will be creating a simple user management system to do this, and try to make it easy enough to modify for larger scale operations. 
+
+
+In the future I may also like to design a UI to make the system easier to use, and more appealing.
 
